@@ -91,9 +91,9 @@ IoT and intelligent sensing architectures for smart environments.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profclaudiopereira\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profclaudiopereira&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profclaudiopereira\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profclaudiopereira&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
