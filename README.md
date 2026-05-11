@@ -67,7 +67,7 @@ Background in:
 
 * M.Sc. in Computer Science — CIn/UFPE
 * B.Sc. in Electronic Engineering — UPE
-* Physics Education Degree — UFRPE
+* Bachelor’s Degree in Physics — UFRPE
 
 ---
 
