@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%" />
+
 # Claudio Pereira
 
 ### Embedded AI • Edge Computing • Intelligent IoT
