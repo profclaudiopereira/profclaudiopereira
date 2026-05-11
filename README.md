@@ -89,12 +89,16 @@ IoT and intelligent sensing architectures for smart environments.
 
 ---
 
-## GitHub Stats
+## Research Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profclaudiopereira&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profclaudiopereira&layout=compact&theme=tokyonight&hide_border=true)
-
+- Embedded AI
+- Hybrid AI Runtime
+- Edge Computing
+- Intelligent IoT Systems
+- Embedded Linux
+- ESP32 / STM32 Platforms
+- Local AI Inference
+  
 ---
 
 ## Contact
