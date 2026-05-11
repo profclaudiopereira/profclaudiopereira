@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" />
+<img src="bannerv2.png" width="100%" />
 
 # Claudio Pereira
 
